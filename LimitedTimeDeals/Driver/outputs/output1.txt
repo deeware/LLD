@@ -1,0 +1,8 @@
+Deal #1 created
+User 'John' created
+User 'Jane' created
+Deal #1 claimed by 'John'
+Deal #1 already claimed by 'John'!
+Deal #1 claimed by 'Jane'
+User 1: John | Item ID: 1, Deal ID: 1, Quantity: 1
+User 2: Jane | Item ID: 1, Deal ID: 1, Quantity: 1

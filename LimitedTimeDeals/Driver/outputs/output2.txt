@@ -1,0 +1,17 @@
+Deal #1 created
+Deal #2 created
+Deal #3 created
+User 'John' created
+User 'Jane' created
+User 'Joe' created
+Deal Expired
+Deal #1 claimed by 'John'
+Deal Expired
+Deal #2 claimed by 'Jane'
+Deal Expired
+Deal #3 claimed by 'Joe'
+Deal Expired
+Deal #1 already claimed by 'John'!
+User 1: John | Item ID: 1, Deal ID: 1, Quantity: 1
+User 2: Jane | Item ID: 2, Deal ID: 2, Quantity: 1
+User 3: Joe | Item ID: 3, Deal ID: 3, Quantity: 1
